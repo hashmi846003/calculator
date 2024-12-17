@@ -1,13 +1,11 @@
 # calculator
-Test the workings of the calculator using Unit Testing.
-The following work has to be done in this PR
+Following work has to done in this PR
+- **Add a code for calculator**
+    - Add
+    - Subtract
+    - Multiplication
+    - Division et. 
 
-Add a code for the calculator
-
-Add
-Subtract
-Multiplication
-Division et.
-Unit test for all functions
-
-CI/CD
+- **Unit test for all fuction**
+- **CI/CD**
+        
